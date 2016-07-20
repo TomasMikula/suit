@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="26.779203mm"
+   height="26.698786mm"
+   viewBox="0 0 94.886942 94.601996"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="suit.svg"
+   inkscape:export-filename="/Users/thomas/tmp/suit64.png"
+   inkscape:export-xdpi="60.886486"
+   inkscape:export-ydpi="60.886486">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.52"
+     inkscape:cx="35.430973"
+     inkscape:cy="55.747583"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.140455,-884.46473)">
+    <rect
+       style="opacity:1;fill:#364754;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4236"
+       width="94.88694"
+       height="94.601997"
+       x="28.140455"
+       y="884.46472"
+       rx="10.030091"
+       ry="10.030091"
+       inkscape:export-xdpi="121.41"
+       inkscape:export-ydpi="121.41" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 57.634766,92.419926 c 3.349259,5.799382 6.911068,11.969304 9.818359,17.003904 -3.512928,6.08431 -7.025428,12.16888 -10.537109,18.2539 6.238303,10.81673 12.808062,22.1932 18.687498,32.36912 6.166957,-10.68148 12.335013,-21.36232 18.5,-32.04493 -3.581893,-6.20786 -7.166178,-12.41435 -10.75,-18.62109 3.264309,-5.65356 6.528472,-11.307481 9.792968,-16.960934 -11.83513,-0.0692 -24.280717,0.0076 -35.511716,3e-5 z"
+       transform="translate(0,790.15748)"
+       id="path4223"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="opacity:1;fill:#ff0404;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:transform-center-y="2.1748949"
+       d="M 76.167693,884.5772 68.633846,897.6262 61.1,884.5772 Z"
+       id="path4144"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ff0404;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 78.425781,94.419712 -19.201172,33.258018 5.626953,9.7461 24.830079,-43.003908 z"
+       transform="translate(0,790.15748)"
+       id="path4146"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="opacity:1;fill:#ff0404;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 82.236328,111.44727 -16.191406,28.04296 9.558594,16.55665 16.191406,-28.04493 -9.558594,-16.55468 z"
+       transform="translate(0,790.15748)"
+       id="path4152"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
